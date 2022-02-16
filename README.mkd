@@ -1,0 +1,14 @@
+## Descrição do projeto
+
+Foi feito uma tela de Login/Registro onde em ambas as telas após a confirmação é passado os dados para uma outra página usando o método POST.
+Na página de registro foi desenvolvido um script em JS onde ao adicionar a data de nascimento o campo idade é preenchido automaticamente e ao adicionar um CEP os campos referentes ao endereço são preenchidos automaticamente.
+
+## Tecnologias
+
+**PHP**
+
+**JAVASCRIPT**
+
+**HTML**
+
+**CSS(Bootstrap)**
